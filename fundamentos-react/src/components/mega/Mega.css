@@ -1,0 +1,23 @@
+.Mega label {
+  margin-right: 10px;
+}
+
+.Mega input {
+  font-size: 1.4rem;
+  width: 50px;
+}
+
+.Circle {
+  background: #ffffff;
+  border-radius: 45%;
+  width: 35px;
+  height: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #000000;
+}
+
+.NumberDad {
+  display: flex;
+  justify-content: space-between;
+}

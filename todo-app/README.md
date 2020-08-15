@@ -35,9 +35,13 @@ Aplicação criada com intuito de aprendizagem, a aplicação serve para você c
 voltando tarefa para o estado de a fazer, conseguimos também excluir essas tarefaz criadas e pesquisar por eles.
 
 <p align="center">
-<img src="./img/image1.png" alt="exibição de aplicação 1" width="300" height="300">
-<img src="./img/image2.png" alt="exibição de aplicação 2" width="300" height="300">
-<img src="./img/image3.png" alt="exibição de aplicação 3" width="300" height="300">
+<img src="./img/image1.png" alt="exibição de aplicação 1" width="800" height="500">
+</p>
+<p align="center">
+<img src="./img/image2.png" alt="exibição de aplicação 2" width="800" height="500">
+</p>
+<p align="center">
+<img src="./img/image3.png" alt="exibição de aplicação 3" width="800" height="500">
 </p>
 
 <!-- GETTING STARTED -->
